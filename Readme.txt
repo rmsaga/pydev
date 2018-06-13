@@ -1,3 +1,3 @@
 Setting up a new repository
 
-test avatar2
+test avatar3
